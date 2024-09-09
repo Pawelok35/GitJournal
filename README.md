@@ -15,22 +15,19 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 | Day  | Date       | Summary of Work Done                        | Links/Notes                                                                                                              |
 |------|------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Day 1| 2024-09-09 |1. Assigning a function to a constant:       | I understood how to assign a function to a variable/constant,                                                            |
-                    |                                             | making it easier to manage code and call functions from different parts of the application.                              |
-                    |                                             |                                                                                                                          |
-                    |2. Finding elements on the page:             | Using querySelector and querySelectorAll to search for HTML elements on the page based on CSS selectors,                 |
-                    |                                             | giving me greater control over interactions with elements.                                                               |
-                    |                                             |                                                                                                                          |
-                    |3. Extracting attributes from HTML elements: | I learned how to use the getAttribute method to retrieve attribute values from elements on the page,                     |
-                    |                                             | allowing for dynamic manipulation of element properties.                                                                 |
-                    |                                             |                                                                                                                          |
-                    |4. The for...of loop:                        | I explored the for...of loop, which allows for convenient iteration over arrays and other iterable data structures.      |
-                    |                                             |                                                                                                                          |
-                    |5. Adding and removing CSS classes:          | I learned how to manipulate CSS classes of elements using classList.add() and classList.remove(),                        |
-                    |                                             | enabling dynamic styling changes on the page.                                                                            |
+| Day 1| 2024-09-09 | 1. Assigning a function to a constant:       | I understood how to assign a function to a variable/constant,                                                            |
+|      |            |                                             | making it easier to manage code and call functions from different parts of the application.                              |
+|      |            | 2. Finding elements on the page:            | Using `querySelector` and `querySelectorAll` to search for HTML elements on the page based on CSS selectors,             |
+|      |            |                                             | giving me greater control over interactions with elements.                                                               |
+|      |            | 3. Extracting attributes from HTML elements:| I learned how to use the `getAttribute` method to retrieve attribute values from elements on the page,                   |
+|      |            |                                             | allowing for dynamic manipulation of element properties.                                                                 |
+|      |            | 4. The `for...of` loop:                     | I explored the `for...of` loop, which allows for convenient iteration over arrays and other iterable data structures.     |
+|      |            | 5. Adding and removing CSS classes:         | I learned how to manipulate CSS classes of elements using `classList.add()` and `classList.remove()`,                    |
+|      |            |                                             | enabling dynamic styling changes on the page.                                                                            |
 |------|------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Day 2| 2024-09-10 |                                             |                                                                                                                          |
 | Day 3| 2024-09-11 |                                             |                                                                                                                          |
+                                          |                                                                                                                          |
 
 ...
 
