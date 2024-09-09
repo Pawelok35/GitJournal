@@ -15,15 +15,13 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 | Day  | Date       | Summary of Work Done                        | Links/Notes                                                                                                              |
 |------|------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Day 1| 2024-09-09 | 1. **Assigning a function to a constant:**   | I learned how to assign a function to a variable or constant, making it easier to manage and reuse code throughout the application. |
-|      |            | 2. **Finding elements on the page:**        | Used `querySelector` and `querySelectorAll` to find HTML elements via CSS selectors, providing better control over interactions. |
-|      |            | 3. **Extracting attributes from elements:** | Learned how to use the `getAttribute` method to retrieve values from HTML elements, allowing for dynamic data manipulation. |
-|      |            | 4. **The `for...of` loop:**                 | Explored the `for...of` loop, which simplifies iteration over arrays and iterable objects.                               |
-|      |            | 5. **Adding/removing CSS classes:**         | Learned how to manipulate CSS classes with `classList.add()` and `classList.remove()` to apply dynamic styling.           |
-|------|------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Day 1| 2024-09-09 | 1. **Assigning a function to a constant**:   | Learned how to assign a function to a variable or constant.                                                              |
+|      |            | 2. **Finding elements**:                    | Used `querySelector` and `querySelectorAll` to find elements via CSS selectors.                                           |
+|      |            | 3. **Extracting attributes**:               | Used `getAttribute` to retrieve element values.                                                                          |
+|      |            | 4. **The `for...of` loop**:                 | Learned to iterate arrays with `for...of`.                                                                                |
+|      |            | 5. **Adding/removing CSS classes**:         | Manipulated classes with `classList.add()` and `classList.remove()`.                                                     |
 | Day 2| 2024-09-10 | Work in progress...                         |                                                                                                                          |
 | Day 3| 2024-09-11 | Work in progress...                         |                                                                                                                          |
-
 
 ...
 
