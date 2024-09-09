@@ -15,10 +15,10 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 ## Day 1 - 2024-09-09
 1. **Assigning a function to a constant**: Learned how to assign a function to a variable or constant.
-2. **Finding elements**: Used `querySelector` and `querySelectorAll` to find elements via CSS selectors.
-3. **Extracting attributes**: Used `getAttribute` to retrieve element values.
-4. **The `for...of` loop**: Learned to iterate arrays with `for...of`.
-5. **Adding/removing CSS classes**: Manipulated classes with `classList.add()` and `classList.remove()`.
+2. **Finding elements**                  : Used `querySelector` and `querySelectorAll` to find elements via CSS selectors.
+3. **Extracting attributes**             : Used `getAttribute` to retrieve element values.
+4. **The `for...of` loop**               : Learned to iterate arrays with `for...of`.
+5. **Adding/removing CSS classes**       : Manipulated classes with `classList.add()` and `classList.remove()`.
 
 ## Day 2 - 2024-09-10
 - Work in progress...
