@@ -22,7 +22,10 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 5. **Adding/removing CSS classes**: Manipulated classes with `classList.add()` and `classList.remove()`.
 
 ## Day 2 - 2024-09-10
-- Work in progress...
+1. **Review of material from 09.09.2024**: Went through the previous day's work, reinforcing concepts such as `innerHTML`, event handling, and dynamic link generation.
+2. **Code review and detailed explanation**: Conducted a code review to ensure a thorough understanding of how the code functions, breaking down each part to solidify comprehension.
+3. **Notes for learning the next day**: Prepared notes for the next learning session, focusing on areas that need more attention, including deeper JavaScript concepts and refining the current project.
+4. **3 Pomodoro sessions (25/5)**: Completed three Pomodoro sessions, with 25 minutes of focused work followed by 5-minute breaks.
 
 ## Day 3 - 2024-09-11
 - Work in progress...
