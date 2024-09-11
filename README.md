@@ -28,7 +28,15 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 4. **3 Pomodoro sessions (25/5)**: Completed three Pomodoro sessions, with 25 minutes of focused work followed by 5-minute breaks.
 
 ## Day 3 - 2024-09-11
-- Work in progress...
+
+1. **Review of material from 10.09.2024**: Revisited the previous day's work, focusing on key concepts such as using `getAttribute`, properly initializing variables, and ensuring the correct use of DOM methods like `querySelectorAll`.
+   
+2. **Code review and detailed explanation**: Conducted a thorough code review, identifying key issues such as incorrect use of `getAttributes` (replaced with `getAttribute`) and ensuring proper HTML string concatenation in the `generateTitleLinks` function. Also, fixed missing initialization of the `html` variable, which caused issues when generating dynamic content.
+
+3. **Notes for learning the next day**: Made notes for future improvements, specifically on better error handling, optimizing DOM manipulation, and exploring more efficient ways to generate dynamic HTML content. Also, plan to investigate deeper into event delegation for handling link clicks.
+
+4. **4 Pomodoro sessions (25/5)**: Completed four Pomodoro sessions focused on debugging, fixing syntax errors, and testing the functionality of the `titleClickHandler` and `generateTitleLinks` functions.
+
 
 ...
 
