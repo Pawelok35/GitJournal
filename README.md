@@ -85,7 +85,15 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: Today's session was centered on reviewing and optimizing the existing code, with a focus on improving efficiency and gaining a deeper understanding of its workings. The Pomodoro Method (4×30 minutes) was successfully used to structure the day, leading to clear improvements in code quality and comprehension. This lays a solid foundation for future coding tasks and ensures a more streamlined development process moving forward.
 
+## Day 8 - 2024-09-16
 
+1. **Expanding the code with new functions (generateAuthors, authorClickHandler, addClickListenersToAuthors):**: oday, the main focus was on developing additional features for the project. This involved implementing new functions to handle authors similarly to how tags were managed. The generateAuthors function was created to dynamically generate author links for each article, and the authorClickHandler and addClickListenersToAuthors functions were written to allow interaction with these links and filter articles based on the selected author.
+
+2. **Review of the past few days' work**: Time was spent revisiting concepts and code developed over the last few days. This included going over previous functions and understanding how they can be integrated with the newly added author features to ensure consistent behavior across the project.
+
+3. **Pomodoro Method (3×30 minutes)**: FThree focused sessions of 30 minutes each were completed, utilizing the Pomodoro technique to stay on task and maintain productivity.
+
+**Summary**: oday's work was primarily about expanding the functionality of the project with new features related to handling authors. This, combined with a review of previous knowledge, helped solidify understanding and ensure seamless integration of the new code. The Pomodoro Method (3×30 minutes) contributed to maintaining focus and efficient progress.
 ...
 
 ## Key Learning Areas 🔐
