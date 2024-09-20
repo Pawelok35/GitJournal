@@ -127,6 +127,16 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: Today was focused on continuing JavaScript learning and expanding the functionality of the project with the addition of new functions like `calculateTagClass` and `calculateTagsParams`. The Pomodoro method (3×30 minutes) helped maintain a productive workflow throughout the day.
 
+## Day 12 - 2024-09-20
+
+1. **Review of previous material**: Today, I spent time revisiting and reviewing the concepts and code I have learned over the past few days. This was helpful in reinforcing my understanding of key JavaScript principles and project structure.
+
+2. **Consolidating code**: I worked on solidifying the existing codebase, ensuring that everything functions as expected. This included minor adjustments and optimizations to improve readability and maintainability.
+
+3. **Mentorship meeting**: I had a mentoring session, where I discussed progress, clarified doubts, and received valuable feedback on the project. This provided direction and insights for future improvements.
+
+**Summary**: The day was focused on reviewing past lessons and solidifying the project code. The mentoring session offered helpful feedback, providing clarity and guidance for further development.
+
 ...
 
 ## Key Learning Areas 🔐
