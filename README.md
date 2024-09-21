@@ -137,6 +137,14 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: The day was focused on reviewing past lessons and solidifying the project code. The mentoring session offered helpful feedback, providing clarity and guidance for further development.
 
+## Day 13 - 2024-09-21
+
+1. **Applying learned knowledge to a personal project**: Today, I focused on leveraging the skills and knowledge I've gained to start working on my private project. The project revolves around the use of AI in sports, and I applied what I’ve learned about JavaScript, data structures, and overall project development to lay the groundwork.
+
+2. **Project development**: I began by outlining the key features and structure of the project. This included determining how AI could be integrated into the sports context, and how the codebase should be organized for scalability and maintainability.
+
+**Summary**: The day was dedicated to applying the knowledge I’ve gained to begin a personal project involving the use of AI in sports. This was an exciting opportunity to put theory into practice, and I was able to structure the project effectively.
+
 ...
 
 ## Key Learning Areas 🔐
