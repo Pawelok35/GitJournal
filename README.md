@@ -145,6 +145,12 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: The day was dedicated to applying the knowledge I’ve gained to begin a personal project involving the use of AI in sports. This was an exciting opportunity to put theory into practice, and I was able to structure the project effectively.
 
+## Day 14 - 2024-09-22
+
+1. **Applying learned knowledge to a personal project**: Today, I continued to build on my private project, using the knowledge and skills I've gained so far. I focused on further development of features, ensuring smooth integration of AI into the project, specifically within the context of sports.
+
+2. **Data collection for research**: In addition to coding, I dedicated time to collecting and organizing data for the project. This step is crucial for the research aspect of the project, as the AI model will rely on accurate and well-structured data to produce meaningful insights.
+
 ...
 
 ## Key Learning Areas 🔐
