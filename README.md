@@ -151,6 +151,15 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 2. **Data collection for research**: In addition to coding, I dedicated time to collecting and organizing data for the project. This step is crucial for the research aspect of the project, as the AI model will rely on accurate and well-structured data to produce meaningful insights.
 
+## Day 15 - 2024-09-23
+
+1. **Developing the code to include a list counting author occurrences**: Today, I worked on expanding the code to create a feature that counts how many times each author appears in the articles. This functionality is essential for better tracking and displaying the most active authors in the project.
+
+2. **Understanding the code**: I dedicated time to thoroughly understanding how the new functionality integrates with the rest of the code. This included analyzing the logic behind the counting mechanism and ensuring that the code is efficient and well-structured.
+
+**Summary**: Today's focus was on extending the code to count and display author occurrences, along with deepening my understanding of how the code works as a whole.
+
+
 ...
 
 ## Key Learning Areas 🔐
