@@ -159,6 +159,14 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: Today's focus was on extending the code to count and display author occurrences, along with deepening my understanding of how the code works as a whole.
 
+## Day 16 - 2024-09-24
+
+1. **Learning and implementing Handlebars**: Today, I focused on learning Handlebars.js, a templating engine that simplifies the generation of HTML. I studied its syntax and how it can be integrated into JavaScript projects to make the code more modular and easier to maintain.
+
+2. **Refactoring the code with Handlebars**: After gaining a solid understanding of Handlebars, I began refactoring the existing code to use Handlebars templates. This allowed me to simplify the dynamic HTML generation and separate the logic from the presentation layer, making the code cleaner and more efficient.
+
+**Summary**: Today's work centered on learning Handlebars and refactoring the code to leverage its templating capabilities, which improved the structure and readability of the project.
+
 
 ...
 
