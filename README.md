@@ -167,6 +167,13 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: Today's work centered on learning Handlebars and refactoring the code to leverage its templating capabilities, which improved the structure and readability of the project.
 
+## Day 17 - 2024-09-25
+
+1. **Learning Object-Oriented Programming (OOP)**: Today, I focused on learning Object-Oriented Programming (OOP). I explored key concepts like classes, objects, inheritance, and encapsulation, which are crucial for organizing and structuring code in larger projects.
+
+2. **Exploring callbacks**: In addition to OOP, I concentrated on understanding the concept of callbacks in JavaScript. I studied how callback functions can be used for asynchronous operations and how they can be applied effectively to gain better control over program flow.
+
+**Summary**: Today's focus was on learning OOP and callbacks in JavaScript. This provided a stronger foundation for managing code and a better understanding of JavaScript's asynchronous behavior.
 
 ...
 
