@@ -175,6 +175,14 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: Today's focus was on learning OOP and callbacks in JavaScript. This provided a stronger foundation for managing code and a better understanding of JavaScript's asynchronous behavior.
 
+## Day 18 - 2024-09-26
+
+1. **Reviewing current material**: Today, I focused on revisiting and reviewing the concepts I have been learning recently. This included going over Object-Oriented Programming (OOP), callbacks, and other key JavaScript concepts to ensure a solid understanding.
+
+2. **Reinforcing knowledge**: I spent time practicing and applying what I've learned to strengthen my skills and improve my confidence in using these concepts in practical situations.
+
+**Summary**: Today was dedicated to reviewing and reinforcing the knowledge I've gained, ensuring a deeper understanding of the material covered so far.
+
 ...
 
 ## Key Learning Areas 🔐
