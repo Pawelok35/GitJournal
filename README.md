@@ -183,6 +183,14 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: Today was dedicated to reviewing and reinforcing the knowledge I've gained, ensuring a deeper understanding of the material covered so far.
 
+## Day 19 - 2024-09-27
+
+1. **Learning about callbacks**: Today, I focused on deepening my understanding of callbacks in JavaScript. I explored how they work and their role in handling asynchronous operations, making sure I grasped the core concepts.
+
+2. **Practicing with examples**: I spent time practicing callbacks with various examples to better understand their practical use in real-world scenarios. This hands-on experience helped solidify the theoretical knowledge.
+
+**Summary**: Today was dedicated to learning about callbacks and practicing with examples, which helped strengthen my understanding of how callbacks work in JavaScript.
+
 ...
 
 ## Key Learning Areas 🔐
