@@ -191,6 +191,14 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: Today was dedicated to learning about callbacks and practicing with examples, which helped strengthen my understanding of how callbacks work in JavaScript.
 
+## Day 20 - 2024-09-28
+
+1. **Working on the `this` keyword**: Today, I focused on understanding the `this` keyword in JavaScript. I explored how `this` behaves differently depending on the context in which it is used (e.g., in objects, functions, and classes), and how to manage its behavior effectively.
+
+2. **Deepening knowledge of callbacks**: I continued to work on callbacks, ensuring I fully understand their use in asynchronous programming. I practiced combining callbacks with the `this` keyword to gain a deeper understanding of both concepts in real-world applications.
+
+**Summary**: Today was dedicated to learning the nuances of the `this` keyword and reinforcing my knowledge of callbacks. This helped me build a stronger foundation for managing complex scenarios in JavaScript.
+
 ...
 
 ## Key Learning Areas 🔐
