@@ -199,6 +199,14 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: Today was dedicated to learning the nuances of the `this` keyword and reinforcing my knowledge of callbacks. This helped me build a stronger foundation for managing complex scenarios in JavaScript.
 
+## Day 21 - 2024-09-29
+
+1. **Review of the entire week's material**: Today, I focused on reviewing all the concepts and topics covered throughout the week. This included a recap of Object-Oriented Programming (OOP), the `this` keyword, callbacks, and general JavaScript fundamentals. Revisiting this material helped reinforce my understanding and clarified any lingering doubts.
+
+2. **Practicing key concepts**: I took time to practice key concepts through examples and exercises. This hands-on approach helped strengthen my confidence in applying what I have learned throughout the week.
+
+**Summary**: The day was dedicated to reviewing and practicing the material from the entire week, ensuring a stronger grasp of JavaScript concepts like OOP, `this`, and callbacks.
+
 ...
 
 ## Key Learning Areas 🔐
