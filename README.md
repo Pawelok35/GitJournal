@@ -207,6 +207,24 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: The day was dedicated to reviewing and practicing the material from the entire week, ensuring a stronger grasp of JavaScript concepts like OOP, `this`, and callbacks.
 
+## Day 22 - 2024-09-30
+
+1. **Working on the `this` keyword**: Today, I delved deeper into the behavior of the `this` keyword in JavaScript, focusing on different rules that govern its behavior:
+   - **Default rule**: Understanding how `this` behaves in the global context (Window vs Undefined).
+   - **Implicit Binding Rule**: How `this` refers to the object on which a method is called.
+   - **Explicit Binding Rule**: Using `call()`, `apply()`, and `bind()` to explicitly define what `this` refers to.
+   - **Hard Binding**: Ensuring that `this` always refers to a specific object using `bind()`.
+
+2. **Learning object creation principles**:
+   - **Rule 1**: Using `new` to create a new object.
+   - **Rule 2**: Creating multiple objects based on a template, such as a constructor function.
+   - **Rule 3**: Creating more complex objects with methods, giving each object specific behaviors.
+   - **Rule 4**: Utilizing prototypes to share methods across all instances of an object, making code more efficient.
+   - **Rule 5**: Using `new` as a way to create instances of objects, ensuring proper object-oriented behavior.
+
+**Summary**: Today's work focused on mastering the behavior of the `this` keyword through various binding rules and learning different principles for creating and managing objects in JavaScript. These lessons provide a solid foundation for efficient object-oriented programming in JavaScript.
+
+
 ...
 
 ## Key Learning Areas 🔐
