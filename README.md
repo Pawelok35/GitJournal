@@ -260,6 +260,14 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: The day was dedicated to reviewing and reinforcing the material covered earlier in the week, ensuring a solid understanding of key concepts related to JavaScript and DOM manipulation.
 
+## Day 26 - 2024-10-04
+
+1. **Starting to learn about accordion in JavaScript**: Today, I began learning how to implement an accordion feature in JavaScript. I explored how accordions work, focusing on the logic for toggling sections open and closed.
+
+2. **Starting project modifications**: I also began working on modifying my project to incorporate the new features I've been learning, including the accordion functionality.
+
+**Summary**: Today's focus was on learning how to create an accordion in JavaScript and beginning to implement changes in my project to integrate this new feature.
+
 ...
 
 ## Key Learning Areas 🔐
