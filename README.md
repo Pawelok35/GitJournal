@@ -305,6 +305,31 @@ The goal is to acquire programming skills at a mid-level developer proficiency i
 
 **Summary**: Today was dedicated to reviewing and reinforcing the entire module, focusing on the key components such as the `Product` class, `constructor`, `renderInMenu()`, and `initAccordion()`. This review ensured that the newly learned concepts and functionality are solidified and well understood.
 
+## Day 30 - 2024-10-08
+
+1. **Iterating through categories and options**: 
+   - Today, I learned how to iterate over product option categories (e.g., sauce, toppings, crust) and then through the individual options within those categories (e.g., tomato, cream for sauce). 
+   - I realized the importance of first selecting the category and then its sub-options to have full control over all possible product configurations.
+
+2. **Checking selected options**: 
+   - I learned how to check if an option was selected by the user using the `formData` object and also how to verify if the option was a default selection.
+   - If an option is selected and was not default, its price is added to the total product price.
+   - If a default option is deselected, its price is subtracted from the total price.
+
+3. **Increasing and decreasing the price**: 
+   - This logic allowed me to learn how to manipulate the total price dynamically based on selected or deselected options.
+
+4. **Writing comments and code translation**: 
+   - I practiced writing comments to better understand the code’s functionality and translated these comments into English, which is helpful when working with international teams or codebases.
+
+**Key concepts**:
+   - **formData object**: Contains form data that reflects the user's selections.
+   - **Default options**: These are pre-selected options that influence the initial product price.
+   - **Price recalculation algorithm**: Adjusts the product’s price dynamically based on selected or deselected options.
+
+**Summary**: 
+   - Today’s learning focused on understanding the mechanism of dynamically recalculating product prices based on user selections. We iterated over product categories and options, learned how to check selected options, and applied this knowledge to adjust the total price accordingly.
+
 ...
 
 ## Key Learning Areas 🔐
